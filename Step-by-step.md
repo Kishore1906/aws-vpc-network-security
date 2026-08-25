@@ -24,7 +24,7 @@ Step 1 : AWS account
 
 after the lunch by default the aws will create (Internet Gateway ,subnets private and public ,Route Tables)
 *lunch EC2 Instances connect to ubuntu linux 
-command 
+command :
 chmod 400 ~/exaple.pem
 ssh -i your-key.pem ubuntu@EC2_PUBLIC_IP
 sudo apt update
