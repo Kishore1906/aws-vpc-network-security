@@ -8,7 +8,8 @@ The architecture shows how internet traffic reaches an EC2 instance through mult
 
 ## 🏗️ Architecture
 
-![AWS VPC Architecture](architecture.png)
+![AWS VPC Architecture](architectureaws-vpn-network-security.png
+)
 
 ## 🔄 Traffic Flow
 
